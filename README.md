@@ -11,8 +11,9 @@ Version 0.1
 Leading whitespace-significant. 4 spaces = 1 tab.
 
 Prefer capitalization:
-	* Types and Events: Pascal
-	* Functions and fields: camel
+
+* Types and Events: Pascal
+* Functions and fields: camel
 
 ## Keywords
 
